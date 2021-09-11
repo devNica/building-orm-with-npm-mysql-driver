@@ -20,7 +20,7 @@ npm install
 ## Usage
 
 ```javascript
-import foobar
+module countries.router
 
 # returns 'todos los registros de un pais'
 url('/devnica/v1/country/all')
