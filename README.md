@@ -1,4 +1,4 @@
-# conn-mysql-node-singlepattern
+# building-orm-with-npm-mysql-driver
 
 Es una aplicacion de NodeJS creada con el proposito de crear un pseudo-ORM
 que permita realizar consultas a bases de datos MySQL y Postgres, emulando
